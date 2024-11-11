@@ -1,18 +1,33 @@
-# 💫 About Me:
-## 👋 Hi there! I'm Maniraj<br><br>I'm a passionate **Full-Stack Developer** focused on building seamless web experiences with modern JavaScript technologies. As a fresh graduate diving into the tech industry, I'm constantly learning and exploring new tools to expand my skill set.<br><br>### 🚀 What I Do<br>- **Frontend**: React, Next.js, Tailwind CSS<br>- **Backend**: Node.js, Express, MongoDB, Mongoose<br>- **Database**: MySQL, MongoDB<br>- **Other Tools**: Firebase Auth, REST APIs, React Redux<br><br>### 🌱 Currently Learning<br>I'm currently enhancing my backend skills with **Node.js**, **Express**, and **MongoDB** to become a well-rounded **Full-Stack Developer**. I'm also exploring **Next.js** for server-side rendering and **TypeScript** for type-safe applications.<br><br>### 🌍 Projects<br>I'm passionate about creating impactful projects that contribute to a sustainable future. Currently working on:<br>- **Sustainable Living Guide**: A full-stack web app offering personalized eco-friendly recommendations, a carbon footprint tracker, and a green product marketplace.<br><br>### ✨ Goals for 2026<br>- 📈 Grow my expertise in JavaScript frameworks and backend technologies.<br>- 🌎 Contribute to open-source projects focused on sustainability and community building.<br><br>### 💡 Fun Facts<br>- 🗣️ Improving my **English speaking skills** for professional and personal growth.<br><br>### 📫 Let's Connect!<br>- **LinkedIn**: https://www.linkedin.com/in/maniraj-kumar/<br>- **Email**: manirajsingh7667@gmail.com<br><br>Feel free to explore my repos, and let's build something amazing together!<br>
+<h1 align="center" id="title">Heritage</h1>
 
+<p align="center"><img src="https://socialify.git.ci/Manirajkumar1/Heritage/image?font=Raleway&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Charlie%20Brown&amp;pulls=1&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maniraj-kumar/) 
+<p id="description">🏥 Heritage Healthcare Website 📖 Project Description The Heritage Healthcare Website is a medical appointment platform designed to help patients easily find and book appointments with specialist doctors. The website streamlines the process of checking doctor availability selecting a preferred date and confirming appointments making healthcare access more efficient and user-friendly. 🌟 Key Features Specialist Doctor Search: Quickly search for doctors by specialty to find the right healthcare provider for your needs. Real-Time Availability Check: View the availability of doctors in real-time to schedule appointments on convenient dates. Appointment Booking: Effortlessly book appointments online with a few clicks. User Authentication: Secure login for patients to manage their bookings and view appointment history. Responsive Design: Optimized for both desktop and mobile devices ensuring a seamless user experience.</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Manirajkumar1&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Manirajkumar1&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manirajkumar1&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2>🚀 Demo</h2>
 
----
-[![](https://visitcount.itsvg.in/api?id=Manirajkumar1&icon=0&color=0)](https://visitcount.itsvg.in)
+[https://heritage-nine-phi.vercel.app/](https://heritage-nine-phi.vercel.app/)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2>Project Screenshots:</h2>
+
+<img src="https://imgur.com/a/qn0vUyk" alt="project-screenshot" width="400" height="400/">
+
+  
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   🔍 Specialist Doctor Search Easily search for doctors by their specialty (e.g. cardiology dermatology pediatrics). Filter doctors based on location and availability. 📅 Real-Time Availability Check View the real-time availability of doctors for faster appointment scheduling. Calendar integration to show available slots. 🗓️ Easy Appointment Booking Book appointments with a few clicks using an intuitive interface. Receive instant confirmation and reminders for scheduled appointments. 👥 User Authentication Secure patient login and registration system. Users can manage their profiles and view appointment history. 🗺️ Responsive Design Fully optimized for desktop tablet and mobile devices. Smooth navigation and user experience on all screen sizes. 🛠️ Admin Dashboard (Optional Feature) Admins can manage doctor profiles availability schedules and patient bookings. Access analytics and reports to monitor appointment trends. 🗃️ Patient Records Management (Optional Feature) Securely store and access patient details for registered users. View patient history to streamline follow-up appointments.
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. ## Installation Follow these steps to set up and run the project on your local machine. ### Prerequisites Before running the project ensure you have the following installed: - **Node.js** (v14 or higher) - **npm** (v6 or higher) - **MongoDB** (for the backend database)</p>
+
+```
+### Steps to Install  1. **Clone the repository**     First clone the repository to your local machine using the following command:     ```bash    git clone https://github.com/yourusername/hospital-doctor-booking.git
+```
+
+<h2>🛡️ License:</h2>
+
+This project is licensed under the Maniraj
